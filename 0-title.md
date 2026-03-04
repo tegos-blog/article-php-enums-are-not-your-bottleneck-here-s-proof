@@ -1,0 +1,1 @@
+# PHP Enums Are Not Your Bottleneck (Here's Proof)
